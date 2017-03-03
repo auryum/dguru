@@ -1,0 +1,2 @@
+# dguru
+AWS Dotnetcore practice
